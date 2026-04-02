@@ -61,4 +61,4 @@ To deliver high-quality results in fast-paced environments, I leverage a special
 ---
 
 > [!NOTE]
-> **This list is part of my commitment to continuous improvement and operational excellence.
+> This list is part of my commitment to continuous improvement and operational excellence.
