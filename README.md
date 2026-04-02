@@ -25,6 +25,24 @@ Proficiency in these tools is mandatory for our Agile/Scrum workflow:
 | **Technical Analysis** | SQL (Data Integrity), Postman, Rapid Reporter  |
 
 ---
+## 🤖 GenAI Strategy in Quality Engineering
+Leveraging Google Cloud GenAI to accelerate the testing lifecycle and enhance precision. My strategy focuses on three core pillars:
+
+### 1. Requirements Analysis & Test Design
+* **User Story Refinement:** Using LLMs to identify edge cases, missing acceptance criteria, and potential ambiguities in requirements during the Shift-Left phase.
+* **Synthetic Data Generation:** Prompting for complex, anonymized datasets to test SQL edge cases without compromising real user data.
+
+### 2. Efficiency & Documentation
+* **Test Case Optimization:** Transforming high-level requirements into detailed, structured test steps, reducing manual drafting time by ~40%.
+* **Root Cause Analysis (RCA) Support:** Feeding sanitized log data to GenAI to identify patterns in complex defects and accelerate the reporting process.
+
+### 3. Risk Assessment & Exploratory Testing
+* **Predictive Risk Mapping:** Utilizing GenAI to suggest high-risk areas based on historical bug patterns and code change impact analysis.
+
+> [!TIP]
+> **Responsible AI:** All GenAI interactions follow strict data privacy protocols. No PII (Personally Identifiable Information) or proprietary client code is ever shared with public LLMs.
+
+---
 
 ## 📋 Quality Standards (The Senior Framework)
 
