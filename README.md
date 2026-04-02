@@ -64,6 +64,15 @@ Leveraging Google Cloud GenAI to accelerate the testing lifecycle and enhance pr
 
 ---
 
+## 🧰 Integrated AI Toolkit
+To see these strategies in action, explore my specialized prompt libraries designed to accelerate the testing lifecycle:
+
+| 🦾 Accessibility (A11y) | 💾 Data Integrity (SQL) |
+| :--- | :--- |
+| Strategic prompts for WCAG 2.1/2.2 compliance, screen readers, and keyboard navigation. | Advanced patterns for ACID compliance, synthetic data, and migration auditing. |
+| [**View A11y Prompts →**](./prompts/accessibility-login.md) | [**View SQL Prompts →**](./prompts/sql-data-integrity.md) |
+
+---
 ## 🧠 Quality Fundamentals & Strategy
 
 As a **Certified Tester (ISTQB®)**, my approach is built on a solid theoretical foundation that ensures efficiency and risk mitigation throughout the SDLC.
