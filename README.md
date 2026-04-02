@@ -16,6 +16,17 @@ We don't just find bugs; we ensure business alignment through:
 ## 📂 Strategic Quality Ecosystem
 Beyond technical execution, I lead quality through structured frameworks and collaborative processes. Explore my specialized strategic guides:
 
+## 🛠️ Integrated Testing Toolbox
+Beyond strategy, I leverage a curated set of professional tools to ensure execution excellence and technical precision.
+
+### 🧰 [Testing Resources & Toolkit](./RESOURCES.md)
+**Efficiency & Execution Support**
+A comprehensive list of industry-standard tools for daily QE operations.
+* **Evidence Collection:** Tools for screen recording (Loom/ScreenToGif) and bug reporting.
+* **Test Data:** Resources for synthetic data generation (Mockaroo) and API mocking.
+* **Compliance:** Specialized assets for Accessibility (A11y) and UX validation.
+
+
 ### 🏃‍♂️ [Agile Testing Field Guide](./agile-testing-field-guide.md)
 **Leadership & Team Processes**
 Practical strategies for navigating Scrum ceremonies, managing backlogs, and fostering a "Quality First" mindset in high-velocity teams.
