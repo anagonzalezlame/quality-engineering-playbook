@@ -47,5 +47,16 @@ To deliver high-quality results in fast-paced environments, I leverage a special
 * **[Modern Testing (Alan Page)](https://www.moderntesting.org/):** Key insights on transitioning from traditional QA to modern Data-Driven Quality Engineering.
 
 ---
+
+## 🧩 Test Design & Optimization
+*Applying engineering techniques to maximize coverage while minimizing test execution effort.*
+
+* **[Pairwise/All-Pairs Testing (Pairwise.org)](https://www.pairwise.org/):** A central hub for the All-Pairs technique. Essential for finding the most effective combination of parameters without exhaustive testing.
+* **[Hexawise](https://hexawise.com/):** A premier tool for combinatorial test design. It helps you generate the fewest number of tests needed to achieve maximum coverage.
+* **[Bugs by Example](http://www.bugsbyexample.com/):** A fantastic resource for learning about different types of bugs and the specific techniques (like Boundary Value Analysis or Equivalence Partitioning) needed to find them.
+* **[Test Case Lab - Design Techniques](https://testcaselab.com/):** Great for reviewing standard test design methodologies and how to apply them to modern software.
+
+---
+
 > [!NOTE]
-> *This list is part of my commitment to continuous improvement and operational excellence at **Globant**.*
+> *This list is part of my commitment to continuous improvement and operational excellence.
