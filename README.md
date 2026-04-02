@@ -1,5 +1,3 @@
-# quality-engineering-playbook
-Comprehensive onboarding guide and QA strategy for high-performance teams. Focused on Shift-left, Accessibility, and Data Integrity.
 # 🚀 QA Strategy & Junior Onboarding Playbook
 ### *Driving Product Excellence through Strategic Quality Engineering & Mentorship*
 
@@ -9,31 +7,35 @@ Welcome. This repository serves as a strategic blueprint for modern software tes
 
 ## 🎯 Quality Vision & Strategy
 We don't just find bugs; we ensure business alignment through:
-* **Shift-Left Testing**: Engaging from the refinement of User Stories  to mitigate risks before development begins.
+* **Shift-Left Testing**: Engaging from the refinement of User Stories to mitigate risks before development begins.
 * **Accessibility (A11y)**: Guaranteeing software is inclusive for all users by adhering to WCAG standards.
-* **Stakeholder Management**: Delivering high-impact demos and reports for global clients (C2 Proficiency ).
+* **Stakeholder Management**: Delivering high-impact demos and reports for global clients (C2 Proficiency).
 
 ---
-## 📂 Strategic Quality Ecosystem
-Beyond technical execution, I lead quality through structured frameworks and collaborative processes. Explore my specialized strategic guides:
 
-### 🏃‍♂️ [Agile Testing Field Guide](./../agile-testing-field-guide)
+## 📂 Strategic Quality Ecosystem
+Beyond technical execution, I lead quality through structured frameworks and collaborative processes. Explore my specialized strategic repositories:
+
+### 🏃‍♂️ [Agile Testing Field Guide](https://github.com/tu-usuario/agile-testing-field-guide)
 **Leadership & Team Processes**
 Practical strategies for navigating Scrum ceremonies, managing backlogs, and fostering a "Quality First" mindset in high-velocity teams.
 * **Focus:** Shift-Left, Sprint Planning, and Bug Triaging.
 
-### ✨ [Quality Experience (QX) Strategy](./../quality-experience-strategy)
+### ✨ [Quality Experience (QX) Strategy](https://github.com/tu-usuario/quality-experience-strategy)
 **Product Vision & Business Value**
 A framework focused on transitioning from "Bug Hunting" to "Customer Advocacy," ensuring that quality translates into real user satisfaction and ROI.
 * **Focus:** Customer Journey Mapping, Empathy-Driven Testing, and Business Impact.
+
+---
+
 ## 🛠️ Tech Stack & Essential Toolkit
 Proficiency in these tools is mandatory for our Agile/Scrum workflow:
 
 | Category | Tools |
 | :--- | :--- |
-| **Project & Bug Tracking** | JIRA, Azure DevOps, Mantis, RedMine  |
-| **Test Management** | Test Link, TestRail, Xray  |
-| **Technical Analysis** | SQL (Data Integrity), Postman, Rapid Reporter  |
+| **Project & Bug Tracking** | JIRA, Azure DevOps, Mantis, RedMine |
+| **Test Management** | Test Link, TestRail, Xray |
+| **Technical Analysis** | SQL (Data Integrity), Postman, Rapid Reporter |
 
 ---
 
@@ -84,6 +86,7 @@ To see these strategies in action, explore my specialized prompt libraries desig
 | [**View A11y Prompts →**](./prompts/accessibility-login.md) | [**View SQL Prompts →**](./prompts/sql-data-integrity.md) |
 
 ---
+
 ## 🧠 Quality Fundamentals & Strategy
 
 As a **Certified Tester (ISTQB®)**, my approach is built on a solid theoretical foundation that ensures efficiency and risk mitigation throughout the SDLC.
@@ -93,24 +96,6 @@ As a **Certified Tester (ISTQB®)**, my approach is built on a solid theoretical
 
 These principles guide my decision-making process when planning and executing comprehensive tests:
 
-1.  **Testing shows the presence of defects, not their absence:** Our goal is to reduce the probability of undiscovered defects. A clean test run doesn't mean the software is 100% bug-free.
-2.  **Exhaustive testing is impossible:** I use risk analysis and prioritization to focus efforts on what matters most for project success.
-3.  **Early testing (Shift-Left):** We start testing as early as possible—validating user stories and requirements—to find defects when they are cheaper to fix.
-4.  **Defect clustering:** Experience shows that a small number of modules usually contain most defects. I target deep-dive sessions in these critical areas.
-5.  **Pesticide paradox:** I regularly review and update test cases and documentation to ensure they remain effective in identifying new issues.
-6.  **Testing is context-dependent:** The testing approach is adapted based on the specific needs of the application and stakeholders.
-7.  **Absence-of-errors fallacy:** Fixing bugs is irrelevant if the system fails to fulfill user needs and expectations. I focus on delivering high-quality software solutions that align with end-user requirements.
-
-</details>
-
-## 🎓 About the Lead
-I am **Ana González Lamé**, a Quality Engineering Analyst with 6+ years of experience. 
-* **Senior QC Analyst** at Globant.
-* **Professional Testing Master** (UTN FRBA).
-* **Women Techmakers Ambassador** & International Speaker.
-* **C2 Proficiency** in English.
-
----
-
-> [!IMPORTANT]
-> **New to the team?** Start by reviewing our "Test Strategies" section to understand how we plan and organize comprehensive testing for diverse applications.
+1. **Testing shows the presence of defects, not their absence:** Our goal is to reduce the probability of undiscovered defects. A clean test run doesn't mean the software is 100% bug-free.
+2. **Exhaustive testing is impossible:** I use risk analysis and prioritization to focus efforts on what matters most for project success.
+3
