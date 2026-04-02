@@ -44,6 +44,24 @@ We validate the "truth" behind the UI. Our team uses SQL to:
 We actively conduct accessibility testing to ensure applications meet global compliance guidelines.
 
 ---
+## 🧠 Quality Fundamentals & Strategy
+
+As a **Certified Tester (ISTQB®)**, my approach is built on a solid theoretical foundation that ensures efficiency and risk mitigation throughout the SDLC.
+
+<details>
+<summary><b>Click to expand: The 7 Fundamental Principles of Testing</b></summary>
+
+These principles guide my decision-making process when planning and executing comprehensive tests:
+
+1.  **Testing shows the presence of defects, not their absence:** Our goal is to reduce the probability of undiscovered defects. A clean test run doesn't mean the software is 100% bug-free.
+2.  **Exhaustive testing is impossible:** I use risk analysis and prioritization to focus efforts on what matters most for project success.
+3.  **Early testing (Shift-Left):** We start testing as early as possible—validating user stories and requirements—to find defects when they are cheaper to fix.
+4.  **Defect clustering:** Experience shows that a small number of modules usually contain most defects. I target deep-dive sessions in these critical areas.
+5.  **Pesticide paradox:** I regularly review and update test cases and documentation to ensure they remain effective in identifying new issues.
+6.  **Testing is context-dependent:** The testing approach is adapted based on the specific needs of the application and stakeholders.
+7.  **Absence-of-errors fallacy:** Fixing bugs is irrelevant if the system fails to fulfill user needs and expectations. I focus on delivering high-quality software solutions that align with end-user requirements.
+
+</details>
 
 ## 🎓 About the Lead
 I am **Ana González Lamé**, a Quality Engineering Analyst with 6+ years of experience. 
