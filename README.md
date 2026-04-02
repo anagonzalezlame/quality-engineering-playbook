@@ -14,7 +14,18 @@ We don't just find bugs; we ensure business alignment through:
 * **Stakeholder Management**: Delivering high-impact demos and reports for global clients (C2 Proficiency ).
 
 ---
+## 📂 Strategic Quality Ecosystem
+Beyond technical execution, I lead quality through structured frameworks and collaborative processes. Explore my specialized strategic guides:
 
+### 🏃‍♂️ [Agile Testing Field Guide](./../agile-testing-field-guide)
+**Leadership & Team Processes**
+Practical strategies for navigating Scrum ceremonies, managing backlogs, and fostering a "Quality First" mindset in high-velocity teams.
+* **Focus:** Shift-Left, Sprint Planning, and Bug Triaging.
+
+### ✨ [Quality Experience (QX) Strategy](./../quality-experience-strategy)
+**Product Vision & Business Value**
+A framework focused on transitioning from "Bug Hunting" to "Customer Advocacy," ensuring that quality translates into real user satisfaction and ROI.
+* **Focus:** Customer Journey Mapping, Empathy-Driven Testing, and Business Impact.
 ## 🛠️ Tech Stack & Essential Toolkit
 Proficiency in these tools is mandatory for our Agile/Scrum workflow:
 
