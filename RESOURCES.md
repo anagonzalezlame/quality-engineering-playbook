@@ -48,15 +48,17 @@ To deliver high-quality results in fast-paced environments, I leverage a special
 
 ---
 
-## 🧩 Test Design & Optimization
-*Applying engineering techniques to maximize coverage while minimizing test execution effort.*
+## 🧩 Test Design & Optimization (Free & Open Source)
+*Leveraging engineering techniques to maximize coverage with zero tool cost.*
 
-* **[Pairwise/All-Pairs Testing (Pairwise.org)](https://www.pairwise.org/):** A central hub for the All-Pairs technique. Essential for finding the most effective combination of parameters without exhaustive testing.
-* **[Hexawise](https://hexawise.com/):** A premier tool for combinatorial test design. It helps you generate the fewest number of tests needed to achieve maximum coverage.
-* **[Bugs by Example](http://www.bugsbyexample.com/):** A fantastic resource for learning about different types of bugs and the specific techniques (like Boundary Value Analysis or Equivalence Partitioning) needed to find them.
-* **[Test Case Lab - Design Techniques](https://testcaselab.com/):** Great for reviewing standard test design methodologies and how to apply them to modern software.
+* **[Pairwise.org](https://www.pairwise.org/):** The ultimate free resource for All-Pairs testing. It lists several open-source tools (like PICT by Microsoft) to generate combinatorial test sets.
+* **[AllPairs (Satisfice - James Bach)](https://www.satisfice.com/resources):** A free, classic command-line tool to create pairwise test scripts efficiently.
+* **[Heuristic Test Strategy Model (HTSM)](https://www.satisfice.com/heuristic-test-strategy-model):** A world-class free framework (PDF/Web) for deriving test cases based on project risks and context.
+* **[CCRT - Combinatorial Case Reduction Tool](https://github.com/microsoft/pict):** (Via GitHub) Microsoft's PICT is the industry standard for free combinatorial testing.
+* **[Boundary Value Analysis & Equivalence Partitioning Guide](https://www.istqb.org/):** Using the free **ISTQB Glossary and Syllabus** to apply black-box techniques manually but structurally.
+
 
 ---
 
 > [!NOTE]
-> *This list is part of my commitment to continuous improvement and operational excellence.
+> **This list is part of my commitment to continuous improvement and operational excellence.
