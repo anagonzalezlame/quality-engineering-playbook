@@ -53,7 +53,7 @@ To deliver high-quality results in fast-paced environments, I leverage a special
 
 * **[Holistic Testing (Lisa Crispin & Janet Gregory)](https://agiletester.ca/):** The evolution of Agile Testing. This resource (via their blog and agiletester.ca) explains how to transition from "Testing in a phase" to "Quality across the whole DevOps loop." 
 * **[Foundations of Information Systems Testing (Federico Toledo)](https://abstracta.us/foundations-of-information-systems-testing):** A comprehensive guide covering the essential pillars of testing. Excellent for reinforcing ISTQB concepts with a practical, modern approach.
-* **[The Way of the Web Tester (Jonathan Rasmusson - Sample/Intro)](https://tiny.cc/web-tester):** While the full book is paid, the author provides several free resources and "cheatsheets" that are perfect for learning how to test web applications effectively.
+* **[The Way of the Web Tester (Jonathan Rasmusson - Sample/Intro)](https://media.pragprog.com/titles/jrtest/unit.pdf):** While the full book is paid, the author provides several free resources and "cheatsheets" that are perfect for learning how to test web applications effectively.
 * **[ISTQB® Official Syllabus](https://www.istqb.org/certifications/certified-tester-foundation-level):** The global standard for testing terminology. Essential for maintaining a common language with international teams.
 
 ---
