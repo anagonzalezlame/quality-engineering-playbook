@@ -37,7 +37,7 @@ To deliver high-quality results in fast-paced environments, I leverage a special
 ## 🤖 GenAI & Productivity
 *Accelerating the testing lifecycle through Prompt Engineering.*
 
-* **[ChatGPT / Gemini / Claude](https://gemini.google.com/):** My core engines for User Story refinement and edge-case brainstorming.
+* **[Gemini](https://gemini.google.com/):** My core engines for User Story refinement and edge-case brainstorming.
 * **[Prompts for QA](./prompts/):** Check my internal library for specialized QE prompts.
 
 ---
