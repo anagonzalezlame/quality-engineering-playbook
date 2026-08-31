@@ -97,7 +97,7 @@ To see these strategies in action, explore my specialized prompt libraries:
 
 ## 🎓 About the Lead
 I am **Ana González Lamé**, a Quality Engineering Analyst with over six years of experience.
-* **Senior QC Analyst** at **Globant**.
+* **Senior QA Analyst**, manual/exploratory/API testing in agile teams.
 * **Professional Testing Master** (UTN FRBA).
 * **ISTQB® Certified Tester** (Foundation Level).
 * **Women Techmakers Ambassador** & International Speaker.

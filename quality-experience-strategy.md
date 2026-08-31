@@ -47,7 +47,7 @@ By applying a QX mindset, I help teams achieve:
 
 ## 🎓 About the Lead
 I am **Ana González Lamé**, a Senior Quality Engineering Analyst and **ISTQB® Certified Tester**.
-* **Senior QC Analyst** at Globant.
+* **Senior QA Analyst** with 8+ years of experience in manual, exploratory, and API testing.
 * **Google Women Techmakers Ambassador** & International Speaker.
 * **C2 Proficiency** in English.
 
