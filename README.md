@@ -37,6 +37,11 @@ Practical strategies for navigating Scrum ceremonies, managing backlogs, and fos
 A framework focused on transitioning from "Bug Hunting" to "Customer Advocacy," ensuring that quality translates into real user satisfaction and ROI.
 * **Focus:** Customer Journey Mapping, Empathy-Driven Testing, and Business Impact.
 
+### 🥒 [BDD & Gherkin Guide](./bdd-gherkin-guide.md)
+**Living Documentation & Requirements Clarity**
+A practical framework for writing Gherkin that survives past the sprint, plus early findings from my UTEC research on how BDD reshapes testing workload across agile teams.
+* **Focus:** Declarative Scenario Design, Tagging & Traceability, Three Amigos Facilitation.
+
 ---
 
 ## 🛠️ Tech Stack & Essential Toolkit
@@ -83,10 +88,10 @@ Leveraging GenAI to accelerate the testing lifecycle and enhance precision. My s
 ## 🧰 Integrated AI Toolkit
 To see these strategies in action, explore my specialized prompt libraries:
 
-| 🦾 Accessibility (A11y) | 💾 Data Integrity (SQL) |
-| :--- | :--- |
-| Strategic prompts for WCAG compliance and screen readers. | Advanced patterns for ACID compliance and migration auditing. |
-| [**View A11y Prompts →**](./prompts/accessibility-login.md) | [**View SQL Prompts →**](./prompts/sql-data-integrity.md) |
+| 🦾 Accessibility (A11y) | 💾 Data Integrity (SQL) | 🥒 BDD & Gherkin |
+| :--- | :--- | :--- |
+| Strategic prompts for WCAG compliance and screen readers. | Advanced patterns for ACID compliance and migration auditing. | Scenario scaffolding, edge-case discovery, and anti-pattern refactoring. |
+| [**View A11y Prompts →**](./prompts/accessibility-login.md) | [**View SQL Prompts →**](./prompts/sql-data-integrity.md) | [**View BDD Prompts →**](./prompts/bdd-scenarios.md) |
 
 ---
 
