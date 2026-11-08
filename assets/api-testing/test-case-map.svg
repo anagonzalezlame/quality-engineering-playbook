@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" width="960" height="500" role="img" aria-labelledby="title desc">
+  <title id="title">Where API bugs hide: four kinds of test cases</title>
+  <desc id="desc">A two by two map. Happy path: valid input returns the expected result. Negative: invalid input fails cleanly with a 4xx code, never a 5xx. Boundaries: the edges of what is allowed, such as limit 0 or an offset past the last item. Rules and access: who can do what, with which method.</desc>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .h { font-size: 20px; font-weight: 700; }
+    .s { font-size: 14.5px; fill: #374151; }
+    .c { font-size: 14px; fill: #111827; }
+  </style>
+
+  <rect x="0" y="0" width="960" height="500" rx="16" fill="#ffffff"/>
+  <rect x="0.5" y="0.5" width="959" height="499" rx="16" fill="none" stroke="#e5e7eb"/>
+
+  <text x="480" y="42" text-anchor="middle" class="sans" font-size="21" font-weight="700" fill="#111827">Where API bugs hide</text>
+
+  <!-- Happy path -->
+  <g transform="translate(30 66)">
+    <rect width="440" height="196" rx="12" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.5"/>
+    <text x="22" y="38" class="sans h" fill="#14532d">✓ Happy path</text>
+    <text x="22" y="66" class="sans s">Valid input returns the expected result.</text>
+    <rect x="22" y="88" width="396" height="86" rx="8" fill="#ffffff" stroke="#bbf7d0"/>
+    <text x="40" y="120" class="mono c">GET /pokemon/pikachu</text><text x="290" y="120" class="mono c">→ 200</text>
+    <text x="40" y="150" class="mono c">GET /pokemon/25</text><text x="290" y="150" class="mono c">→ 200</text>
+  </g>
+
+  <!-- Negative -->
+  <g transform="translate(490 66)">
+    <rect width="440" height="196" rx="12" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+    <text x="22" y="38" class="sans h" fill="#7f1d1d">✗ Negative</text>
+    <text x="22" y="66" class="sans s">Bad input fails cleanly: 4xx, never 5xx.</text>
+    <rect x="22" y="88" width="396" height="86" rx="8" fill="#ffffff" stroke="#fecaca"/>
+    <text x="40" y="120" class="mono c">GET /pokemon/missingno</text><text x="290" y="120" class="mono c">→ 404</text>
+    <text x="40" y="150" class="mono c">GET /pokemon/-1</text><text x="290" y="150" class="mono c">→ 404</text>
+  </g>
+
+  <!-- Boundaries -->
+  <g transform="translate(30 280)">
+    <rect width="440" height="196" rx="12" fill="#fffbeb" stroke="#d97706" stroke-width="1.5"/>
+    <text x="22" y="38" class="sans h" fill="#78350f">↔ Boundaries</text>
+    <text x="22" y="66" class="sans s">The edges of what is allowed.</text>
+    <rect x="22" y="88" width="396" height="86" rx="8" fill="#ffffff" stroke="#fde68a"/>
+    <text x="40" y="120" class="mono c">?limit=0, ?limit=1</text>
+    <text x="40" y="150" class="mono c">?offset= past the last item</text>
+  </g>
+
+  <!-- Rules and access -->
+  <g transform="translate(490 280)">
+    <rect width="440" height="196" rx="12" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.5"/>
+    <text x="22" y="38" class="sans h" fill="#4c1d95">🔒 Rules &amp; access</text>
+    <text x="22" y="66" class="sans s">Who can do what, with which method.</text>
+    <rect x="22" y="88" width="396" height="86" rx="8" fill="#ffffff" stroke="#ddd6fe"/>
+    <text x="40" y="120" class="mono c">POST on a read-only API</text>
+    <text x="40" y="150" class="mono c">missing or expired token</text>
+  </g>
+</svg>

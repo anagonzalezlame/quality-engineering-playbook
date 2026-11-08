@@ -42,6 +42,11 @@ A framework focused on transitioning from "Bug Hunting" to "Customer Advocacy," 
 A practical framework for writing Gherkin that survives past the sprint, plus early findings from my UTEC research on how BDD reshapes testing workload across agile teams.
 * **Focus:** Declarative Scenario Design, Tagging & Traceability, Three Amigos Facilitation.
 
+### 🔌 [API Testing Guide](./api-testing-guide.md)
+**From First Request to Automated Suite**
+A simple, robust method for testing REST APIs, illustrated with diagrams and runnable examples against the public PokeAPI, plus practice exercises with answers. It connects to a working [automated suite](https://github.com/anagonzalezlame/pokeapi-qa-automation) that applies the same method.
+* **Focus:** The Five Checks for Every Response, Negative & Boundary Testing, Postman, Contract Testing, Bug Reporting.
+
 ---
 
 ## 🛠️ Tech Stack & Essential Toolkit

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 330" width="960" height="330" role="img" aria-labelledby="title desc">
+  <title id="title">The five checks for every API response</title>
+  <desc id="desc">Five cards: 1 Status, 2 Headers, 3 Contract, 4 Data and 5 Time, each with the question it answers and an example for GET /pokemon/pikachu. A 200 status only proves the first check.</desc>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .q { font-size: 14px; fill: #374151; }
+    .t { font-size: 18px; font-weight: 700; fill: #111827; }
+    .n { font-size: 17px; font-weight: 700; fill: #ffffff; }
+    .ex { font-size: 12.5px; fill: #111827; }
+  </style>
+
+  <rect x="0" y="0" width="960" height="330" rx="16" fill="#ffffff"/>
+  <rect x="0.5" y="0.5" width="959" height="329" rx="16" fill="none" stroke="#e5e7eb"/>
+
+  <text x="480" y="42" text-anchor="middle" class="sans" font-size="21" font-weight="700" fill="#111827">Five checks for every response</text>
+  <text x="480" y="66" text-anchor="middle" class="sans" font-size="14" fill="#6b7280">Example: <tspan class="mono" fill="#111827">GET /pokemon/pikachu</tspan></text>
+
+  <!-- Card 1 -->
+  <g transform="translate(26 88)">
+    <rect width="172" height="190" rx="12" fill="#eff6ff" stroke="#2563eb"/>
+    <circle cx="28" cy="30" r="16" fill="#2563eb"/><text x="28" y="36" text-anchor="middle" class="sans n">1</text>
+    <text x="54" y="36" class="sans t">Status</text>
+    <text x="16" y="72" class="sans q">Is it the code this</text>
+    <text x="16" y="91" class="sans q">case expects?</text>
+    <rect x="12" y="140" width="148" height="34" rx="6" fill="#ffffff" stroke="#bfdbfe"/>
+    <text x="86" y="162" text-anchor="middle" class="mono ex">200 OK</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g transform="translate(210 88)">
+    <rect width="172" height="190" rx="12" fill="#f5f3ff" stroke="#7c3aed"/>
+    <circle cx="28" cy="30" r="16" fill="#7c3aed"/><text x="28" y="36" text-anchor="middle" class="sans n">2</text>
+    <text x="54" y="36" class="sans t">Headers</text>
+    <text x="16" y="72" class="sans q">Right format, cache</text>
+    <text x="16" y="91" class="sans q">and security info?</text>
+    <rect x="12" y="140" width="148" height="34" rx="6" fill="#ffffff" stroke="#ddd6fe"/>
+    <text x="86" y="162" text-anchor="middle" class="mono ex">application/json</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g transform="translate(394 88)">
+    <rect width="172" height="190" rx="12" fill="#fff7ed" stroke="#ea580c"/>
+    <circle cx="28" cy="30" r="16" fill="#ea580c"/><text x="28" y="36" text-anchor="middle" class="sans n">3</text>
+    <text x="54" y="36" class="sans t">Contract</text>
+    <text x="16" y="72" class="sans q">Are all fields there,</text>
+    <text x="16" y="91" class="sans q">with the right types?</text>
+    <rect x="12" y="140" width="148" height="34" rx="6" fill="#ffffff" stroke="#fed7aa"/>
+    <text x="86" y="162" text-anchor="middle" class="mono ex">id: integer</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g transform="translate(578 88)">
+    <rect width="172" height="190" rx="12" fill="#f0fdf4" stroke="#16a34a"/>
+    <circle cx="28" cy="30" r="16" fill="#16a34a"/><text x="28" y="36" text-anchor="middle" class="sans n">4</text>
+    <text x="54" y="36" class="sans t">Data</text>
+    <text x="16" y="72" class="sans q">Are the values right</text>
+    <text x="16" y="91" class="sans q">for this input?</text>
+    <rect x="12" y="140" width="148" height="34" rx="6" fill="#ffffff" stroke="#bbf7d0"/>
+    <text x="86" y="162" text-anchor="middle" class="mono ex">id = 25</text>
+  </g>
+
+  <!-- Card 5 -->
+  <g transform="translate(762 88)">
+    <rect width="172" height="190" rx="12" fill="#fdf2f8" stroke="#db2777"/>
+    <circle cx="28" cy="30" r="16" fill="#db2777"/><text x="28" y="36" text-anchor="middle" class="sans n">5</text>
+    <text x="54" y="36" class="sans t">Time</text>
+    <text x="16" y="72" class="sans q">Does it answer fast</text>
+    <text x="16" y="91" class="sans q">enough?</text>
+    <rect x="12" y="140" width="148" height="34" rx="6" fill="#ffffff" stroke="#fbcfe8"/>
+    <text x="86" y="162" text-anchor="middle" class="mono ex">&lt; 1000 ms</text>
+  </g>
+
+  <text x="480" y="308" text-anchor="middle" class="sans" font-size="14" font-style="italic" fill="#4b5563">A 200 only proves check number 1.</text>
+</svg>
