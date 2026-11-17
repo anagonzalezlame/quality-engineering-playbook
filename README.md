@@ -47,6 +47,11 @@ A practical framework for writing Gherkin that survives past the sprint, plus ea
 A simple, robust method for testing REST APIs, illustrated with diagrams and runnable examples against the public PokeAPI, plus practice exercises with answers. It connects to a working [automated suite](https://github.com/anagonzalezlame/pokeapi-qa-automation) that applies the same method.
 * **Focus:** The Five Checks for Every Response, Negative & Boundary Testing, Postman, Contract Testing, Bug Reporting.
 
+### 🤖 [Agentic AI in Testing](./agentic-ai-testing-guide.md)
+**Autonomy with Accountability**
+A framework for using multi-step AI testing agents without losing human judgment where it matters most.
+* **Focus:** Human-in-the-Loop Checkpoints, Confirmation Bias in Self-Validated Code, Escalation Triggers.
+
 ---
 
 ## 🛠️ Tech Stack & Essential Toolkit
@@ -93,10 +98,10 @@ Leveraging GenAI to accelerate the testing lifecycle and enhance precision. My s
 ## 🧰 Integrated AI Toolkit
 To see these strategies in action, explore my specialized prompt libraries:
 
-| 🦾 Accessibility (A11y) | 💾 Data Integrity (SQL) | 🥒 BDD & Gherkin |
-| :--- | :--- | :--- |
-| Strategic prompts for WCAG compliance and screen readers. | Advanced patterns for ACID compliance and migration auditing. | Scenario scaffolding, edge-case discovery, and anti-pattern refactoring. |
-| [**View A11y Prompts →**](./prompts/accessibility-login.md) | [**View SQL Prompts →**](./prompts/sql-data-integrity.md) | [**View BDD Prompts →**](./prompts/bdd-scenarios.md) |
+| 🦾 Accessibility (A11y) | 💾 Data Integrity (SQL) | 🥒 BDD & Gherkin | 🤖 Agentic Handoff |
+| :--- | :--- | :--- | :--- |
+| Strategic prompts for WCAG compliance and screen readers. | Advanced patterns for ACID compliance and migration auditing. | Scenario scaffolding, edge-case discovery, and anti-pattern refactoring. | Boundary-setting and human checkpoint prompts for autonomous agents. |
+| [**View A11y Prompts →**](./prompts/accessibility-login.md) | [**View SQL Prompts →**](./prompts/sql-data-integrity.md) | [**View BDD Prompts →**](./prompts/bdd-scenarios.md) | [**View Agentic Prompts →**](./prompts/agentic-testing-handoff.md) |
 
 ---
 
